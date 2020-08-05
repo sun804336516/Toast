@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../3d_engine/3d_engine.iml" filepath="$PROJECT_DIR$/../3d_engine/3d_engine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../app/app.iml" filepath="$PROJECT_DIR$/../../app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../business/attendance/attendance.iml" filepath="$PROJECT_DIR$/../../business/attendance/attendance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../baseui/baseui.iml" filepath="$PROJECT_DIR$/../baseui/baseui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../calendarview/calendarview.iml" filepath="$PROJECT_DIR$/../calendarview/calendarview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../business/control-device/control-device.iml" filepath="$PROJECT_DIR$/../../business/control-device/control-device.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../core/core.iml" filepath="$PROJECT_DIR$/../core/core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../business/course-playmedia/course-playmedia.iml" filepath="$PROJECT_DIR$/../../business/course-playmedia/course-playmedia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ijkplayer/ijkplayer.iml" filepath="$PROJECT_DIR$/../ijkplayer/ijkplayer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ijkview/ijkview.iml" filepath="$PROJECT_DIR$/../ijkview/ijkview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../launchstarter/launchstarter.iml" filepath="$PROJECT_DIR$/../launchstarter/launchstarter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../loading/loading.iml" filepath="$PROJECT_DIR$/../loading/loading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../business/login/login.iml" filepath="$PROJECT_DIR$/../../business/login/login.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../material-control.iml" filepath="$PROJECT_DIR$/../../material-control.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../netbuslib/netbuslib.iml" filepath="$PROJECT_DIR$/../netbuslib/netbuslib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../permissionlib/permissionlib.iml" filepath="$PROJECT_DIR$/../permissionlib/permissionlib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../refreshlayout/refreshlayout.iml" filepath="$PROJECT_DIR$/../refreshlayout/refreshlayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../router/router.iml" filepath="$PROJECT_DIR$/../router/router.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../skeleton/skeleton.iml" filepath="$PROJECT_DIR$/../skeleton/skeleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../smart_core/smart_core.iml" filepath="$PROJECT_DIR$/../smart_core/smart_core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/smart_toast.iml" filepath="$PROJECT_DIR$/smart_toast.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../stickyDecoration/stickyDecoration.iml" filepath="$PROJECT_DIR$/../stickyDecoration/stickyDecoration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../business/teach-manager/teach-manager.iml" filepath="$PROJECT_DIR$/../../business/teach-manager/teach-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../verticalindicator/verticalindicator.iml" filepath="$PROJECT_DIR$/../verticalindicator/verticalindicator.iml" />
+    </modules>
+  </component>
+</project>

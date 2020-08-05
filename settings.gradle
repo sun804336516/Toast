@@ -1,0 +1,2 @@
+include ':app', ':smart_toast', ':smart_core'
+rootProject.name='Toast'
